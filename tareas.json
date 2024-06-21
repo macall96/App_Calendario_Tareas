@@ -1,0 +1,76 @@
+{
+  "tareas": [
+    {
+      "id": "8C0gJYfUA6",
+      "titulo": "Examen Cliente",
+      "fecha": "4/3/2024",
+      "hora": "12:00",
+      "tipo": "Examen",
+      "descripcion": "Examen Cliente 2ª Evaluación"
+    },
+    {
+      "id": "V3EQ0VYH5K",
+      "titulo": "Examen Despliegue",
+      "fecha": "4/3/2024",
+      "hora": "8:15",
+      "tipo": "Examen",
+      "descripcion": "Examen Despliegue 2ª Evaluación."
+    },
+    {
+      "id": "Wf6yxGDo1j",
+      "titulo": "Cumpleaños",
+      "fecha": "3/3/2024",
+      "hora": "9:00",
+      "tipo": "Evento",
+      "descripcion": "Hoy cumplo 27!!!!"
+    },
+    {
+      "id": "kYPOymKEiF",
+      "titulo": "Inicio FCT",
+      "fecha": "21/3/2024",
+      "hora": "10:00",
+      "tipo": "Evento",
+      "descripcion": "Empiezo las FCT en la empresa."
+    },
+    {
+      "id": "l2FeAb3p1p",
+      "titulo": "Presentación Accesbilidad",
+      "fecha": "29/2/2024",
+      "hora": "9:10",
+      "tipo": "Examen",
+      "descripcion": "Presentación del PowerPoint sobre Accesibilidad en Diseño Web."
+    },
+    {
+      "id": "eAGWAvv3Gh",
+      "titulo": "Examen de Inglés",
+      "fecha": "5/3/2024",
+      "hora": "8:15",
+      "tipo": "Examen",
+      "descripcion": "Examen de Inglés 2ª Evaluación."
+    },
+    {
+      "id": "Z9T1hT8Run",
+      "titulo": "Prácticas Servidor",
+      "fecha": "1/3/2024",
+      "hora": "Todo el día",
+      "tipo": "Entrega",
+      "descripcion": "Fecha límite para entregar todas las prácticas de Desarrollo Servidor de la 2ª Evaluación."
+    },
+    {
+      "id": "JyHJCHFzbp",
+      "titulo": "Cumpleaños Clarinchi",
+      "fecha": "5/8/2024",
+      "hora": "12:40",
+      "tipo": "Evento",
+      "descripcion": "Cumple de la ratona!!!"
+    },
+    {
+      "id": "UDQXbb2eO3",
+      "titulo": "Empezar curso Angular",
+      "fecha": "19/3/2024",
+      "hora": "22:00",
+      "tipo": "Evento",
+      "descripcion": "Empezar el curso de YouTube sobre Angular."
+    }
+  ]
+}
